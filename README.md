@@ -1,7 +1,17 @@
-Hi,
+Subject: Progress Update on Attendance Tracker Phase 2
 
-Reports:
-A.	I had a word with shiv regarding this part (shiv in on AL till 29). The SQL is ready and it will be incorporated in the access data base by 1 Apr and the users can select the data range and pull a report containing details regarding AL, SL, WFO Rate. 
-B.	I have reconciled the attendance tracker data with Workday Allowance Report and approved extra hours data (which was shared by Nafees on Fri). The file is ready for your review.
-C.	We have selected Power BI for the data visualization (due to limited data viz capabilities in access and excel). 
-The dash board is ready for your review. I have incorporated the suggestion highlighted by Tarun. Monthly details can be seen by the functional managers, managers regarding the SL%, AL%, WFO%. 
+Hi [Manager's Name],
+
+Good morning! I hope you're doing well.
+
+Regarding the reporting structure, here's an update on the progress:
+
+A. I have discussed this with Shiv, who will be back from Annual Leave on April 29. The SQL for generating reports is ready and will be integrated into the Access database by April 1. Users will be able to select date ranges and generate reports containing details on AL, SL, and WFO Rate.
+
+B. I have completed the reconciliation of attendance tracker data with the Workday Allowance Report and verified the extra hours data shared by Nafees on Friday. The file is ready for your review.
+
+C. We have opted for Power BI for data visualization due to its advanced capabilities compared to Access and Excel. The dashboard is prepared and incorporates the suggestions highlighted by Tarun. Functional managers and team leads can view monthly details regarding SL%, AL%, and WFO%.
+
+I look forward to your feedback and discussing any further requirements or adjustments needed.
+
+Best regards,
