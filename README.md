@@ -1,27 +1,23 @@
+Hi Shiv,
 
-Hi Parvez,
+Good Morning!
 
-As discussed. 
+As discussed earlier, please find below the requirement in the attendance tracker in phase 2.
 
-Write sql queries using  attendance_table and Staff_list Table.
+OBM main page:
+1.	Filter day wise (Date range) to view different disposition as unit level (%age) such as AL%, WFH%, WFO% , SL% etc (location wise) and if that helps to see the trend line as well
+2.	Meter to donate how much attendance is not updated for current date
+3.	Look and feel of the tracker (can be done by us)
+4.	In view attendance tab – shift wise should also be extracted (this will help managers to validate the shift allowance for the employees)
+Reports:
+A.	Leave report at functional manager level and unit level & managers can spool information for themselves (Like date range of report, type of elements such as annual leave, sick leave, WFO rate etc)
+B.	Internal attendance tracker should be validated with workday leave report / shift allowance, national holiday report and with Control IQ (this can be again done in phases if too much for 1 time)
+C.	Functional manager / unit level monthly trend (Annual leave / sick leave & WFO rate) to be published to all leaders every month
 
-1. Retrieve the total number of records in the `attendance_table` from Jan to June 2024.
+I am happy to discuss once again F2F on the requirements. Before going ahead  with governance process, if this can be done please.
 
-2. Find the number of unique employees ID’s  present in the `attendance_table`.
+Also, I’m not sure, if you want to keep access as face or excel however I leave it this in your safe hands.
+Nafees / Rakesh & Shiv – please add your thoughts, if I have missed anything here!
 
-3. Calculate the total number of days worked from Office by each employee in the current month, considering 'WFOHD' as half-day.
+Again, I will recommend to follow the Agile approach and if you can keep me honest about the delivery timelines please.
 
-4. Retrieve the employee ID, ), Name, and Line managerName and attendance dates where the status is 'WFOHD'.
-
-5. Find the employee ID who have worked the maximum number of days in the current month.
-
-6. Retrieve the employee ID(s), ), Name, and Line managerName who have worked only full days ('WFO') in the current month.
-
-7. Calculate the total number of full days worked by all employees in the current month (WFO, WFH).
-
-8. Find the employee ID(s), ), Name, and Line managerName  who have not worked at all in the current month.
-
-9. Calculate the average number of days worked from office by all employees in the current month, considering 'WFOHD' as half-day.
-
-10. Retrieve the employee ID(s), Name, and Line managerName who have worked both full days ('WFO') and half-days ('WFOHD') in the current month.
-11. Write a SQL to calculate number of WFO for current month till the date. Output should show 3 columns staff name, Number of WFO, Completed_required_Days. (this should show completed, Not completed)
