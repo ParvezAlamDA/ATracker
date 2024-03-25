@@ -1,23 +1,7 @@
-Hi Shiv,
+Hi,
 
-Good Morning!
-
-As discussed earlier, please find below the requirement in the attendance tracker in phase 2.
-
-OBM main page:
-1.	Filter day wise (Date range) to view different disposition as unit level (%age) such as AL%, WFH%, WFO% , SL% etc (location wise) and if that helps to see the trend line as well
-2.	Meter to donate how much attendance is not updated for current date
-3.	Look and feel of the tracker (can be done by us)
-4.	In view attendance tab – shift wise should also be extracted (this will help managers to validate the shift allowance for the employees)
 Reports:
-A.	Leave report at functional manager level and unit level & managers can spool information for themselves (Like date range of report, type of elements such as annual leave, sick leave, WFO rate etc)
-B.	Internal attendance tracker should be validated with workday leave report / shift allowance, national holiday report and with Control IQ (this can be again done in phases if too much for 1 time)
-C.	Functional manager / unit level monthly trend (Annual leave / sick leave & WFO rate) to be published to all leaders every month
-
-I am happy to discuss once again F2F on the requirements. Before going ahead  with governance process, if this can be done please.
-
-Also, I’m not sure, if you want to keep access as face or excel however I leave it this in your safe hands.
-Nafees / Rakesh & Shiv – please add your thoughts, if I have missed anything here!
-
-Again, I will recommend to follow the Agile approach and if you can keep me honest about the delivery timelines please.
-
+A.	I had a word with shiv regarding this part (shiv in on AL till 29). The SQL is ready and it will be incorporated in the access data base by 1 Apr and the users can select the data range and pull a report containing details regarding AL, SL, WFO Rate. 
+B.	I have reconciled the attendance tracker data with Workday Allowance Report and approved extra hours data (which was shared by Nafees on Fri). The file is ready for your review.
+C.	We have selected Power BI for the data visualization (due to limited data viz capabilities in access and excel). 
+The dash board is ready for your review. I have incorporated the suggestion highlighted by Tarun. Monthly details can be seen by the functional managers, managers regarding the SL%, AL%, WFO%. 
